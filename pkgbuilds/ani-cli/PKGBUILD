@@ -1,6 +1,6 @@
 # Maintainer: Ocillacubes <squirtle1607@rollingoak.com>
 pkgname='ani-cli'
-pkgver=r252.dd1486d
+pkgver=r264.82fe731
 pkgrel=1
 pkgdesc="A cli to browse and watch anime."
 arch=('x86_64')
