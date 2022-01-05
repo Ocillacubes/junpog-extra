@@ -14,7 +14,7 @@ optdepends=('python-pillow: raw screenshot support')
 makedepends=('python-setuptools')
 source=("https://files.pythonhosted.org/packages/source/${pkgname::1}/${pkgname}/${pkgname}-${pkgver}.tar.gz")
 sha256sums=('10c7ae61eff441602c7188595108391cdede153c15454772d8811c2bcb9e6823')
-groups=("junpog-extra")
+groups=("junpog-python")
 
 build() {
   cd "${pkgname}-${pkgver}"

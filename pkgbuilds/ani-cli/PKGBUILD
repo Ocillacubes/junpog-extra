@@ -1,6 +1,6 @@
 # Maintainer: Ocillacubes <squirtle1607@rollingoak.com>
 pkgname='ani-cli'
-pkgver=r251.75409cc
+pkgver=r252.dd1486d
 pkgrel=1
 pkgdesc="A cli to browse and watch anime."
 arch=('x86_64')
@@ -12,7 +12,7 @@ optdepends=('mpv: view the videos'
 makedepends=('git')
 source=('ani-cli::git+https://github.com/pystardust/ani-cli.git')
 md5sums=('SKIP')
-groups=('junpog-extra')
+groups=('junpog-anime')
 conflicts=('ani-cli-git')
 
 pkgver() {

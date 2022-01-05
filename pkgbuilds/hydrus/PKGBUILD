@@ -34,6 +34,7 @@ sha256sums=('SKIP'
             'd2cb826ce0dd1892ab95fc3b14dbe6bd312210f653d0aea31938eeb7e361fdc5'
             '463841cc16059b516cc327cfbc30d3383e2236b085ba2d503e82f5be39444806'
             '9b8c2603a8040ae80152ff9a718ad3e8803fdc3029a939e3c0e932ea35ded923')
+groups=("junpog-media")
 
 prepare() {
   cd "$pkgbase"
