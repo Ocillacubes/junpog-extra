@@ -1,2 +1,2 @@
-# JunRepos
-My arch linux custom repository
+# junpog-extra
+Nonessential packages for JunPogOS
